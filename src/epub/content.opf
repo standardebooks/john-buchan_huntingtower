@@ -48,9 +48,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Dickson McCunn</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A retired grocer, seeking a change in his mundane life, finds more than he bargained for when he is asked to aid in the rescue of an imprisoned Russian princess.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Published in 1922, &lt;i&gt;Huntingtower&lt;/i&gt; is the first of &lt;a href="https://standardebooks.org/ebooks/john-buchan"&gt;John Buchan’s&lt;/a&gt; novels to feature Dickson McCunn.&lt;/p&gt;
+			&lt;p&gt;Recently retired grocer, Dickson McCunn embarks upons an walking tour of southwestern Scotland and encounters a retired soldier and poet on his travels. They spend the evening in a small village and investigate a nearby empty large house and hear a woman singing from within. McCann’s walking companion recognizes the woman’s voice as belonging to a Russian princess he had worshiped from afar when he was stationed in Europe. A gang of street-urchins inform the them that the princess and her comnpanion are held prisoner, and all agree to join forces and effect a rescue.&lt;/p&gt;
+			&lt;p&gt;The book was made into a silent movie in 1928, and also adapted for radio.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3782</dc:source>
