@@ -147,8 +147,8 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="dedication.xhtml"/>
-		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="frontispiece.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="prologue.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
