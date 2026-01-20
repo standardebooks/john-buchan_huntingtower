@@ -59,7 +59,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3782</dc:source>
 		<dc:source>https://archive.org/details/bwb_KR-515-548</dc:source>
-		<meta property="se:word-count">81344</meta>
+		<meta property="se:word-count">79448</meta>
 		<meta property="se:reading-ease.flesch">82.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Huntingtower</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-buchan_huntingtower</meta>
