@@ -69,6 +69,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79045167</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">James Cassie</dc:contributor>
 		<meta property="file-as" refines="#artist">Cassie, James</meta>
