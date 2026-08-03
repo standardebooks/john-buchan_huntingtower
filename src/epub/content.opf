@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/john-buchan/huntingtower</dc:identifier>
 		<dc:date>2023-05-01T04:38:11Z</dc:date>
@@ -51,12 +51,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Dickson McCunn</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">A retired grocer seeking a change in his mundane life finds more than he bargained for when he’s asked to aid in the rescue of an imprisoned Russian princess.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A retired grocer seeking a change in his mundane life finds more than he bargained for when he’s asked to aid in the rescue of an imprisoned Russian princess.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Published in 1922, &lt;i&gt;Huntingtower&lt;/i&gt; is the first of &lt;a href="https://standardebooks.org/ebooks/john-buchan"&gt;John Buchan’s&lt;/a&gt; novels to feature &lt;a href="https://standardebooks.org/collections/dickson-mccunn"&gt;Dickson McCunn&lt;/a&gt;.&lt;/p&gt;
 			&lt;p&gt;McCunn, recently retired, embarks upon a walking tour of southwestern Scotland and encounters a poet and former soldier on his travels. They spend the evening in a small village, and when they investigate a large empty house nearby, they hear a woman singing from within. McCann’s companion recognizes the woman’s voice as belonging to a Russian princess he had worshiped from afar when he was stationed in Europe. A gang of street-urchins inform the pair that the princess and her companion are held prisoner, and all agree to join forces and effect a rescue.&lt;/p&gt;
 			&lt;p&gt;The book was made into a silent movie in 1928, and has also been adapted for radio.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3782</dc:source>
 		<dc:source>https://archive.org/details/bwb_KR-515-548</dc:source>
